@@ -2,17 +2,26 @@
 
 This sample teaches you how to generate customzed web apps for standard templates given a config file.
 
+
 You basically need two thing:
 
 a. A base web app. The source code for the base app is available at: ./src
 
 b. A config file. A sample config file is available at appConfig.json. You can create as many of these as you like.
 
+
+
 To setup the generator:
 
-Go to the root directory and run "npm install"
+Go to the root directory and run: 
 
-To generate the sample app give command "gulp gen"
+npm install
+
+To generate the sample app give command: 
+
+gulp gen
+
+
 
 To run the generated app:
 

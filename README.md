@@ -14,6 +14,9 @@ b. A config file. A sample config file is available at appConfig.json. You can c
 To setup the generator:
 
 Go to the root directory and run: 
+sudo npm install -g gulp
+
+sudo npm install -g bower
 
 npm install
 
